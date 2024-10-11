@@ -13,4 +13,4 @@ You can easily modify this landing page to include your own name, description, a
 Link here -> [yutari.io](https://yutari.io)
 
 ## License
-MIT License © YUT4R1
+MIT License © YUT4RI
